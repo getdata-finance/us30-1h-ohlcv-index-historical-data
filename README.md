@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1h` sample updated in sync
 
-> **Sample on GitHub** · `US30_1h.csv` (927 rows, `2026-07-07` -> `2026-09-02`, 70.39 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/us30)** — **103,210** `1h` rows (full `1m`: 6,024,308), **11 timeframes**, `2009-03-11` -> `2026-09-02`.
+> **Sample on GitHub** · `US30_1h.csv` (924 rows, `2026-07-07` -> `2026-09-02`, 70.12 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/us30)** — **103,210** `1h` rows (full `1m`: 5,980,529), **11 timeframes**, `2009-03-11` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Dow Jones 30 · Index | Dow Jones 30 · Index |
 | Timeframes | `1h` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 1h rows | 927 | **103,210** |
-| Size | 70.39 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/us30) |
+| 1h rows | 924 | **103,210** |
+| Size | 70.12 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/us30) |
 | Period | `2026-07-07` -> `2026-09-02` | `2009-03-11` -> `2026-09-02` |
 | File | `US30_1h.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/us30) |
 | Coverage report | — | [US30 coverage](https://getdata.finance/coverage/us30) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`US30_1h.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T19:00:00+00:00 | 53013.56 | 53078.56 | 52937.56 | 53022.06 | 38039 |
-| 2026-07-07T20:00:00+00:00 | 53022.06 | 53025.21 | 52965.21 | 53014.96 | 6906 |
-| 2026-07-07T22:00:00+00:00 | 53014.96 | 53017.21 | 52944.96 | 52993.71 | 6906 |
 | 2026-07-07T23:00:00+00:00 | 52993.71 | 53020.71 | 52955.21 | 52959.71 | 4636 |
 | 2026-07-08T00:00:00+00:00 | 52959.71 | 53020.21 | 52918.21 | 53019.71 | 14650 |
+| 2026-07-08T01:00:00+00:00 | 53019.71 | 53031.71 | 52979.21 | 52989.71 | 7601 |
+| 2026-07-08T02:00:00+00:00 | 52989.71 | 52997.21 | 52937.71 | 52962.21 | 5469 |
+| 2026-07-08T03:00:00+00:00 | 52962.21 | 52995.71 | 52960.21 | 52962.71 | 3561 |
 
 **Last rows**
 
